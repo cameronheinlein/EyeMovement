@@ -6,4 +6,4 @@ Move your mouse around the page to watch the eyes track the movement.
 Styling and adding new visual elements. 
 
 ## Visual 
-![image]()
+![image](EyeScreenShot.png)
